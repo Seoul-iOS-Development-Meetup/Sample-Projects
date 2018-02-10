@@ -1,5 +1,5 @@
 # iOS-Seoul-Meetup Sample Project
 
-## Feb 10, 2018 Meetup Sample Project
+## #0 Meetup : Feb 10, 2018 Sample Project
 
 - Custom Present
